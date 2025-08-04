@@ -1,0 +1,14 @@
+# this file will contains all the dependencies for the project
+langchain
+wikipedia
+langchain-community
+langchain-openai
+langchain-anthropic
+langchain-together
+langchain-ollama
+python-dotenv
+pydantic
+pydantic-settings
+httpx
+requests
+duckduckgo-search
